@@ -1,2 +1,2 @@
 # blog_application
-RESTFUL API application for blog management
+RESTFUL API application for blog management and tests
